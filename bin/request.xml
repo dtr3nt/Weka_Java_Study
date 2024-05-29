@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<request receiverIPAddress="var3" requestID="var1" senderIPAddress="var2">
+ <patient patientID="ryadav1">
+  <age>50-59</age>
+  <menopause>premeno</menopause>
+  <tumor-size>35-39</tumor-size>
+  <inv-nodes>0-2</inv-nodes>
+  <node-caps>no</node-caps>
+  <deg-malig>3</deg-malig>
+  <breast>right</breast>
+  <breast-quad>right_low</breast-quad>
+  <irradiat>yes</irradiat>
+  <Class>no</Class>
+ </patient>
+</request>
