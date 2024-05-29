@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response receiverIPAddress="var3" requestID="var1" responseID="var0" senderIPAddress="var2">
+ <patientID>ryadav1</patientID>
+ <opinion>no-recurrence-events</opinion>
+</response>

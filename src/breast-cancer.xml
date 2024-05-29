@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<class>
+    <breast-cancer>
+        <age>20-29</age>
+        <menopause>premeno</menopause>
+        <tumor-size>5-9</tumor-size>
+        <inv-nodes>yes</inv-nodes>
+	<node-caps>no</node-caps>
+	<deg-malig>3</deg-malig>
+	<breast>right</breast>
+	<breast-quad>left_low</breast-quad>
+	<irradiat>no</irradiat>
+    </breast-cancer>
+    
+</class>
